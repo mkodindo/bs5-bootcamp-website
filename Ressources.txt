@@ -1,0 +1,4 @@
+https://getbootstrap.com/docs/5.0/components/accordion/
+https://cdnjs.com/libraries/bootstrap-icons
+
+https://www.hostinger.fr/
